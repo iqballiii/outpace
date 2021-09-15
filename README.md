@@ -1,16 +1,11 @@
-# tanishscienceproject
+# OUTPACE
 
-A new Flutter application.
+An uprising application because of the on-going crisis of COVID-19. 
 
-## Getting Started
+The application uses your location and scans the area for anyone who is close to you and has a vibrating alert system.
+The alerting depends upon the distance;
+1) if the user is in close proximity to the another person with less than 6ft. then the device starts to vibrate continuously and shows a red display denoting "DANGER". 
+2) If it is more than 6ft then the vibrations are pretty mild and display a yellow colour denoting "WARNING". 
+3) Finally, if the user is at a safe dstance then the screens displays green denoting "SAFE".
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
